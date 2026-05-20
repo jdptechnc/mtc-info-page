@@ -11,6 +11,7 @@ I am jdptechnc. Here is some stuff.
 | Project Name        | Link                                            | 
 |---------------------|-------------------------------------------------|
 | mtc-backend-prod    | [GitHub](https://github.com/jdptechnc/mtc-backend-prod.git)                                     |
+| mtc-frontend-prod    | [GitHub](https://github.com/jdptechnc/mtc-frontend-prod.git)                                     |
 | mtc-infra-prod    | [GitHub](https://github.com/jdptechnc/mtc-infra-prod.git)                                     |
 ---
 Copyright 2026 jdptechnc.
